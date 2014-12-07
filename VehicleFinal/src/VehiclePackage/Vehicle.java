@@ -9,7 +9,7 @@ public abstract class Vehicle {
 	
 	
 	
-	public Person transferOwnership(Person newOwner){
-		return Owner = newOwner;	
+	public Person owner(Person newown){
+		return Owner = newown;	
 	}
 }

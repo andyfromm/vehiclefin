@@ -3,7 +3,7 @@
   associations="true" dependencies="false" nesting-relationships="true">  
   <class id="1" language="java" name="VehiclePackage.Car" project="VehicleFinal" 
     file="/VehicleFinal/src/VehiclePackage/Car.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="440" y="361"/>    
+    <position height="-1" width="-1" x="430" y="273"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
       visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -12,7 +12,7 @@
   </class>  
   <class id="2" language="java" name="VehiclePackage.Motorcycle" project="VehicleFinal" 
     file="/VehicleFinal/src/VehiclePackage/Motorcycle.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="260" y="379"/>    
+    <position height="-1" width="-1" x="287" y="276"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
       visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -21,7 +21,7 @@
   </class>  
   <class id="3" language="java" name="VehiclePackage.Person" project="VehicleFinal" 
     file="/VehicleFinal/src/VehiclePackage/Person.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="606" y="364"/>    
+    <position height="-1" width="-1" x="124" y="314"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
       visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -30,7 +30,7 @@
   </class>  
   <class id="4" language="java" name="VehiclePackage.TestVehicle" project="VehicleFinal" 
     file="/VehicleFinal/src/VehiclePackage/TestVehicle.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="85" y="332"/>    
+    <position height="-1" width="-1" x="525" y="87"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
       visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -39,7 +39,7 @@
   </class>  
   <class id="5" language="java" name="VehiclePackage.Truck" project="VehicleFinal" 
     file="/VehicleFinal/src/VehiclePackage/Truck.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="755" y="260"/>    
+    <position height="-1" width="-1" x="545" y="267"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
       visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -48,7 +48,7 @@
   </class>  
   <class id="6" language="java" name="VehiclePackage.Vehicle" project="VehicleFinal" 
     file="/VehicleFinal/src/VehiclePackage/Vehicle.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="182" y="109"/>    
+    <position height="-1" width="-1" x="327" y="90"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
       visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -57,7 +57,7 @@
   </class>  
   <interface id="7" language="java" name="VehiclePackage.VehicleInterface" project="VehicleFinal" 
     file="/VehicleFinal/src/VehiclePackage/VehicleInterface.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="556" y="93"/>    
+    <position height="-1" width="-1" x="427" y="410"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
       visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
